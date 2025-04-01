@@ -1,0 +1,17 @@
+,Hierarchical,DBSCAN,K-Means
+Length_Years,Group 3,Group 1,Cluster 2
+Communication,Group 3,Group 1,Cluster 1
+Trustworthy,Group 2,Group 2,Cluster 2
+Me_Trustworthy,Group 3,Group 1,Cluster 1
+Neurotic_Bad,Group 1,Group 1,Cluster 1
+Neurotic_Good,Group 3,Group 1,Cluster 1
+Fun_1on1,Group 3,Group 1,Cluster 1
+Fun_out,Group 3,Group 1,Cluster 1
+Intellectual_Connection,Group 3,Group 1,Cluster 1
+Emotional_Connection,Group 3,Group 1,Cluster 2
+Emotional_Safety,Group 2,Group 2,Cluster 1
+Sexual_Connection,Group 3,Group 1,Cluster 1
+Appearance_Pretty,Group 1,Group 1,Cluster 2
+Appearance_Sexy,Group 1,Group 1,Cluster 1
+Appearance_Height,Group 1,Group 1,Cluster 2
+Flex,Group 1,Group 1,Cluster 2
