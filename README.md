@@ -38,7 +38,7 @@ The script will:
 
 Your dating history data should be in CSV format with the following columns:
 - `Relationship_ID`: Unique identifier for each relationship
-- Various attribute columns (e.g., Communication, Trustworthy, etc.)
+- Various attribute columns (e.g., Communication, Intellectual_Connection, etc.)
 - `Overall_Relationship_Satisfaction`: Target variable (0-1 scale)
 
 ## Customization
